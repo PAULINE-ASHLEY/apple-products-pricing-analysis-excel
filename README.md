@@ -329,7 +329,7 @@ The US and India markets show relatively similar prices after currency conversio
 
 ## Project Files
 
-- `Apple Products(1).xlsx` — Complete Excel analysis workbook
+- `apple-products-pricing-analysis-excel.xlsx` — Complete Excel analysis workbook
 - `dashboard.png` — Screenshot of the interactive Excel dashboard
 
 ## Skills Demonstrated
