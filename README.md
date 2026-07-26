@@ -20,6 +20,12 @@ The project demonstrates a complete data analysis workflow using Microsoft Excel
 
 **Raw Data → Data Cleaning → KPI Analysis → PivotTables → Data Visualization → Interactive Dashboard → Business Insights**
 
+## Dashboard
+
+![Apple Products Dashboard 1](dashboard1.png)
+![Apple Products Dashboard 2](dashboard2.png)
+![Apple Products Dashboard 3](dashboard3.png)
+
 ## Business Questions
 
 This analysis seeks to answer the following questions:
