@@ -22,9 +22,11 @@ The project demonstrates a complete data analysis workflow using Microsoft Excel
 
 ## Dashboard
 
-![Apple Products Dashboard 1](dashboard1.png)
-![Apple Products Dashboard 2](dashboard2.png)
-![Apple Products Dashboard 3](dashboard3.png)
+<p align="center">
+  <img src="Dashboard1.png" alt="Apple Products Dashboard 1" width="32%">
+  <img src="Dashboard2.png" alt="Apple Products Dashboard 2" width="32%">
+  <img src="Dashboard3.png" alt="Apple Products Dashboard 3" width="32%">
+</p>
 
 ## Business Questions
 
